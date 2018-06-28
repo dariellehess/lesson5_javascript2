@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+Darielle Hess
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I created a website with HTML and Javascript that calculates a person's tax and tax bracket in 2018.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dariellehess.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use nesting if/else statements.
+2. I learned how to clear a website's calculations to start over.
+3. I learned how to do more complex calculations that involved many if/else statements.
 
